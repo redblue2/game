@@ -1,0 +1,48 @@
+/game/
+├─ assets/
+│   ├─ css/
+│   ├─ img/
+│   └─ js/
+│       └─ main.js
+├─ images/
+│   ├─ avatar/       (boş)
+│   ├─ equipment/    (boş)
+│   └─ skills/       (boş)
+├─ maps/             (boş)
+├─ modules/
+│   ├─ ajax_content_loader.php
+│   ├─ dashboard.php
+│   ├─ db.php
+│   ├─ functions.php
+│   ├─ login.php
+│   ├─ logout.php
+│   ├─ register.php
+│   ├─ sidebar.php
+│   ├─ auction/          (klasör)
+│   ├─ character/
+│   │   ├─ character.php
+│   │   └─ content/
+│   │       └─ character_content.php
+│   ├─ dashboard/
+│   │   └─ main.php
+│   ├─ map/              (klasör)
+│   ├─ market/           (klasör)
+│   ├─ panel/
+│   │   ├─ layout.php
+│   │   ├─ home.php
+│   │   ├─ ajax/
+│   │   │   └─ increase_stat.php
+│   │   └─ content/
+│   │       ├─ character.php
+│   │       ├─ character_content.php
+│   │       └─ home_content.php
+│   └─ tasks/            (klasör)
+├─ tema/
+│   ├─ anasayfa/
+│   │   └─ style.css
+│   └─ arayuz/
+│       ├─ sidebar.php
+│       └─ style.css
+├─ game.php
+├─ home.php
+└─ index.php
